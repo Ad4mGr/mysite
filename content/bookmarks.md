@@ -22,7 +22,7 @@ A curated collection of sites, tools, and resources I find useful or interesting
 - [Lobsters](https://lobste.rs/) — Computing-focused community
 - [The Missing Semester (MIT)](https://missing.csail.mit.edu/) — The CS topics they don't teach in school
 - [Teach Yourself CS](https://teachyourselfcs.com/) — CS self-study guide
-- []
+
 ## Design & Inspiration
 
 - [Minimal Gallery](https://minimal.gallery/) — Minimal website showcase

@@ -24,11 +24,17 @@ index_format = "fuse_javascript"
 [extra]
 # SEO keywords
 keywords = "Adam, blog, personal site, bookmarks, dev"
-
+favicon = "/icons/favicon.ico"
 # Icons
 inline_icons = true
 icon_path = "static/icons/"
-icons = ["home", "chat", "idea", "color-palette", "search", "light", "asleep", "rss"]
+icons = ["home", "chat", "idea", "color-palette", "search", "light", "asleep", "rss", "twitter", "linkedin"]
+
+# Social links
+social_links = [
+  { url = "https://x.com/adamG2", name = "Twitter", icon = "twitter.svg" },
+  { url = "https://linkedin.com/in/adam-guerchy", name = "LinkedIn", icon = "linkedin.svg" },
+]
 
 # Navigation menu
 menu_links = [
